@@ -43,7 +43,7 @@ Print "minvalue"
 
 The average of all 5 numbers is 180.4. 
 The maxvalue is 508
-the minvalue s 1
+the minvalue is 1
 
 
 -- END --
